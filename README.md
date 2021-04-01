@@ -45,28 +45,20 @@
    *	System state on completion: รออนุมัติจากผู้บริหารโดยสามารถเช็คได้ที่หน้าสถานะ
    *	
 ### Use case
-img {
-    width: 50%;
-}
-<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg">
+
+<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg" style="width:50%">
 > เป็นการออกแบบใหม่ครั้งที่2(ver.2) มีทั้งหมด 5 role
 
 ### Interface Design
-
-![img](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png)
-
+<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png" style="width:50%">
 > ออกแบบหน้า interface ว่าแค่แ่ละ role จะมีหน้าไหนบ้าง 
 
 ### ER diagram
-
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/ER_diagram_v2.jpg =250x)
-
+<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/ER_diagram_v2.jpg" style="width:50%">
 > ออกแบบใหม่ครั้งที่2(ver.2) 
 
 ### Relational schema
-
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg =100x20)
-
+<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg" style="width:50%">
 > ออกแบบใหม่ครั้งที่2(ver.2) เป็นการออกแบบ table ของ database ว่ามีอะไรบ้าง
 
 ### Link ที่เก็บเอกสารและรูป
