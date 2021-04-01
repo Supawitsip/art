@@ -52,7 +52,7 @@
 
 ### Interface Design
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png =250x)
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png){:height="50%" width="50%"}
 
 > ออกแบบหน้า interface ว่าแค่แ่ละ role จะมีหน้าไหนบ้าง 
 
