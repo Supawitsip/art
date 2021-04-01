@@ -46,7 +46,7 @@
    *	
 ### Use case
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg =250x)
+![test image size](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg =250x)
 
 > เป็นการออกแบบใหม่ครั้งที่2(ver.2) มีทั้งหมด 5 role
 
