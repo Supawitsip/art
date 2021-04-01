@@ -8,8 +8,8 @@ dummy id สำหรับ wedsite ตาม role
    * ID: dummy.coe01@gmail.com
    * Password: CoeWeb001
 
-### requiment
-Scenarios
+###Requiment Specification
+##Scenarios
 1. Admin 
    * Initial Assumption: กำหนดหัวข้อ OKR, ดู report ได้, กำหนดเวลาให้สามารถเลือก-เปลี่ยน OKR ได้, กำหนดสิทธิ์และ role ให้ user อื่นๆ
    * Normal: แอดมินกำหนด OKR เข้าสู่ระบบเพื่อให้ user ได้เลือก OKR, ตรวจสอบเอกสารก่อนจะส่งไปที่ผู้บริหาร 
@@ -35,3 +35,6 @@ Scenarios
    *	Normal: บุคลากรกรอกข้อมูล OKR เมื่อกรอก OKR เสร็จแล้วจะถูกเก็บเป็น pdf และส่งเข้าสู่ระบบเพื่อให้ผู้บริหารอนุมัติต่อไป
    *	What can go wrong: user อัพโหลด file type อื่นที่ไม่ใช่ pdf ก็จะ reject ทันที
    *	System state on completion: รออนุมัติจากผู้บริหารโดยสามารถเช็คได้ที่หน้าสถานะ
+
+[Documnet ที่เก็บเอกสารต่างๆไว้](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/tree/master/document)
+[Documnet ของ Design ต่างๆ](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/tree/master/document/paper_picture_design)
