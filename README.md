@@ -47,10 +47,13 @@
 ### Use case
 
 <img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg" "width:200">
+
 > เป็นการออกแบบใหม่ครั้งที่2(ver.2) มีทั้งหมด 5 role
 
 ### Interface Design
+
 <img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png" "width:200">
+
 > ออกแบบหน้า interface ว่าแค่แ่ละ role จะมีหน้าไหนบ้าง 
 
 ### ER diagram
