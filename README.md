@@ -1,6 +1,12 @@
 # กลุ่มที่ 1 : Tong J w/ Artizy
 
-dummy id สำหรับ wedsite ตาม role
+## สิ่งที่ค้องใช้ทำ
+* server: ubuntu 18
+* database: sqlite3
+* PHP 7.2
+* Webapp: server nginx  
+
+## dummy id สำหรับเข้า wedsite ตาม role
 
 * admin 
    * ID: adummy.coe01@gmail.com
@@ -9,9 +15,9 @@ dummy id สำหรับ wedsite ตาม role
    * ID: dummy.coe01@gmail.com
    * Password: CoeWeb001
 
-### Requiment Specification
+## Requiment Specification
 
-## Scenarios
+### Scenarios
 1. Admin 
    * Initial Assumption: กำหนดหัวข้อ OKR, ดู report ได้, กำหนดเวลาให้สามารถเลือก-เปลี่ยน OKR ได้, กำหนดสิทธิ์และ role ให้ user อื่นๆ
    * Normal: แอดมินกำหนด OKR เข้าสู่ระบบเพื่อให้ user ได้เลือก OKR, ตรวจสอบเอกสารก่อนจะส่งไปที่ผู้บริหาร 
@@ -38,13 +44,31 @@ dummy id สำหรับ wedsite ตาม role
    *	What can go wrong: user อัพโหลด file type อื่นที่ไม่ใช่ pdf ก็จะ reject ทันที
    *	System state on completion: รออนุมัติจากผู้บริหารโดยสามารถเช็คได้ที่หน้าสถานะ
    *	
-## Use case
+### Use case
 
 ![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg)
 
-> มีทั้งหมด 5 role
+> เป็นการออกแบบใหม่ครั้งที่2(ver.2) มีทั้งหมด 5 role
 
-## Link ที่เก็บเอกสารและรูป
+### Interface Design
+
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png)
+
+> ออกแบบหน้า interface ว่าแค่แ่ละ role จะมีหน้าไหนบ้าง 
+
+### ER diagram
+
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/ER_diagram_v2.jpg)
+
+> ออกแบบใหม่ครั้งที่2(ver.2) 
+
+### Relational schema
+
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg)
+
+> ออกแบบใหม่ครั้งที่2(ver.2) เป็นการออกแบบ table ของ database ว่ามีอะไรบ้าง
+
+### Link ที่เก็บเอกสารและรูป
 
 [Documnet ที่เก็บเอกสารไว้](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/tree/master/document)
 
