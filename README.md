@@ -40,7 +40,7 @@ dummy id สำหรับ wedsite ตาม role
    *	
 ## Use case
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/blob/master/document/paper_picture_design/usecase/use_case_v2.jpg)
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg)
 
 > มีทั้งหมด 5 role
 
