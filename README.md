@@ -8,10 +8,10 @@ dummy id สำหรับ wedsite ตาม role
 ### requiment
 Scenarios
 1. Admin 
-   * Initial Assumption: กำหนดหัวข้อ OKR, ดู report ได้, กำหนดเวลาให้สามารถเลือก-เปลี่ยน OKR ได้, กำหนดสิทธิ์และ role ให้ user อื่นๆ
-   * Normal: แอดมินกำหนด OKR เข้าสู่ระบบเพื่อให้ user ได้เลือก OKR, ตรวจสอบเอกสารก่อนจะส่งไปที่ผู้บริหาร 
-   * What can go wrong: admin อาจจะลืมกำหนดเวลาปิดระบบ
-   * System state on completion: -
+   1. Initial Assumption: กำหนดหัวข้อ OKR, ดู report ได้, กำหนดเวลาให้สามารถเลือก-เปลี่ยน OKR ได้, กำหนดสิทธิ์และ role ให้ user อื่นๆ
+   2. Normal: แอดมินกำหนด OKR เข้าสู่ระบบเพื่อให้ user ได้เลือก OKR, ตรวจสอบเอกสารก่อนจะส่งไปที่ผู้บริหาร 
+   3. What can go wrong: admin อาจจะลืมกำหนดเวลาปิดระบบ
+   4. System state on completion: -
 2.	ผู้บริหาร
  * Initial Assumption: ดู report, dashboard อนุมัติเอกสารและการแก้ไข OKR
   * Normal: ผู้บริหารรับเอกสารที่ผ่านการตรวจสอบจาก Admin แล้วทำการอนุมัติผู้บริหารจะมองภาพรวมจาก report, dashboard แต่ไม่สามารถแก้ไขได้ 
@@ -32,6 +32,7 @@ Scenarios
    *	Normal: บุคลากรกรอกข้อมูล OKR เมื่อกรอก OKR เสร็จแล้วจะถูกเก็บเป็น pdf และส่งเข้าสู่ระบบเพื่อให้ผู้บริหารอนุมัติต่อไป
    *	What can go wrong: user อัพโหลด file type อื่นที่ไม่ใช่ pdf ก็จะ reject ทันที
    *	System state on completion: รออนุมัติจากผู้บริหารโดยสามารถเช็คได้ที่หน้าสถานะ
+   *	
 1. Item 1
 1. Item 2
 1. Item 3
