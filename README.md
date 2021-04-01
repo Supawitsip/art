@@ -51,7 +51,7 @@
 
 ### Interface Design
 
-![fat-city-apple-ii|690x473](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png)
+![fat-city-apple-ii|60x47](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png)
 
 > ออกแบบหน้า interface ว่าแค่แ่ละ role จะมีหน้าไหนบ้าง 
 
