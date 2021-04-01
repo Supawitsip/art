@@ -46,25 +46,25 @@
    *	
 ### Use case
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg=250x)
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg =250x)
 
 > เป็นการออกแบบใหม่ครั้งที่2(ver.2) มีทั้งหมด 5 role
 
 ### Interface Design
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png=250x)
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/interface_design/interface_v1.png =250x)
 
 > ออกแบบหน้า interface ว่าแค่แ่ละ role จะมีหน้าไหนบ้าง 
 
 ### ER diagram
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/ER_diagram_v2.jpg=250x)
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/ER_diagram_v2.jpg =250x)
 
 > ออกแบบใหม่ครั้งที่2(ver.2) 
 
 ### Relational schema
 
-![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg=250x)
+![](https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg =100x20)
 
 > ออกแบบใหม่ครั้งที่2(ver.2) เป็นการออกแบบ table ของ database ว่ามีอะไรบ้าง
 
