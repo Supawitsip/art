@@ -46,7 +46,7 @@
    *	
 ### Use case
 
-<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg" "width:200">
+<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/usecase/use_case_v2.jpg" width:200>
 
 > เป็นการออกแบบใหม่ครั้งที่2(ver.2) มีทั้งหมด 5 role
 
@@ -61,7 +61,7 @@
 > ออกแบบใหม่ครั้งที่2(ver.2) 
 
 ### Relational schema
-<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg" "width:100">
+<img src="https://gitlab.en.kku.ac.th/Nakharin/se-project-group1/-/raw/master/document/paper_picture_design/ER_database/Relational_Schema_v2.jpg" width:100>
 > ออกแบบใหม่ครั้งที่2(ver.2) เป็นการออกแบบ table ของ database ว่ามีอะไรบ้าง
 
 ### Link ที่เก็บเอกสารและรูป
